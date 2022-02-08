@@ -1,4 +1,4 @@
-This repository contains the early codebase for SANSView and SasView that was hosted on SourceForge.
+This repository contains the early codebase for SANSView and SasView that was hosted on SourceForge and at danse.chem.utk.edu.
 
 
 NOTE:
