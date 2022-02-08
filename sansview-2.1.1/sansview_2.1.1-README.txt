@@ -3,6 +3,8 @@ Release Notes
 
 SansView 2.1.1 (bug fixed)
 	
+	- Release date: May 2012
+	- THIS IS THE FINAL VERSION OF SANSVIEW
 	- Added DataInfo for data in the DataExplorer and plots
 	- Added Maximize/Restore button in the title bar of the graphs
 	- The 'x' button now works as deleting the graph
